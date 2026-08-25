@@ -8,7 +8,7 @@ and can play up to three times.
 The high score is counted independently for each dimension. 
 Reaching the high score is indicated by fireworks. 
 The algorithm dynamically adapts to CPU performance. 
-You can switch between 2 time  limits \n using [MODE] button.
+You can switch between 2 time  limits using [MODE] button.
 This is indicated as < and <<.
 No time limit mode is marked as |. 
 A two player game is the third option of [MODE]. 
